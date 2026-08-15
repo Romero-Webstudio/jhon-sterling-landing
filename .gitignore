@@ -1,0 +1,16 @@
+# Documentos personales y privados de Jhon (cedula, diploma, hoja de vida) - NO subir a GitHub
+Informacion de Jhon/
+
+# Transcripciones y notas internas del proceso - no son parte del sitio publicado
+Transcripciones/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencias, si mas adelante se usa Node/npm
+node_modules/
+
+# Metadata local de Claude Code (config y locks de sesion, no es parte del sitio)
+.claude/
